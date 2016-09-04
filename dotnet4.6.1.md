@@ -22,6 +22,16 @@
 
 [JayLabs.Owin.OAuthAuthorization](https://github.com/jayway/JayLabs.Owin.OAuthAuthorization)
 
+[Windows Server 2012 AD FS Deployment Guide](https://technet.microsoft.com/en-US/library/dd807092(v=ws.11).aspx)
+
+[Developing Modern Applications using OAuth and Active Directory Federation Services](https://technet.microsoft.com/en-us/library/dn633593.aspx)
+
+[JSON Web Token in ASP.NET Web API 2 using Owin](http://bitoftech.net/2014/10/27/json-web-token-asp-net-web-api-2-jwt-owin-authorization-server/)
+
+[OAuth2 and OpenID Connect Strategies for Angular and ASP.NET](https://app.pluralsight.com/library/courses/oauth2-openid-connect-angular-aspdotnet/exercise-files)
+
+[Automatic post-registration sign-in with Identity Server](http://benfoster.io/blog/identity-server-post-registration-sign-in)
+
 
 ## Author
 @peterblazejewicz
