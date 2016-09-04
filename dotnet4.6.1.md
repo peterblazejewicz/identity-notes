@@ -12,5 +12,16 @@
 
 [Identity Server 3 Standalone Implementation Part 3](https://www.scottbrady91.com/Identity-Server/Identity-Server-3-Standalone-Implementation-Part-3)
 
+[OpenID Connect Hybrid Flow and IdentityServer v3](https://leastprivilege.com/2014/10/10/openid-connect-hybrid-flow-and-identityserver-v3/)
+
+[OWIN OAuth 2.0 Authorization Server](http://www.asp.net/aspnet/overview/owin-and-katana/owin-oauth-20-authorization-server)
+
+[Creating the simplest OAuth2 Authorization Server, Client and API](https://identityserver.github.io/Documentation/docsv2/overview/simplestOAuth.html)
+
+[Securing ASP.NET Web API endpoints – Using OWIN, OAuth 2.0 and Claims](https://www.jayway.com/2014/09/25/securing-asp-net-web-api-endpoints-using-owin-oauth-2-0-and-claims/)
+
+[JayLabs.Owin.OAuthAuthorization](https://github.com/jayway/JayLabs.Owin.OAuthAuthorization)
+
+
 ## Author
 @peterblazejewicz
